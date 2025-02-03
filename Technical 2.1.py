@@ -7,4 +7,4 @@ fullname = fname + " " + lname
 # Output
 print("Full name: ", fullname)
 print("Sliced name: ", fname[:])
-print("Greeting message: Hello, {}! You are {} years old.".format(fname[:], age))
+print("Greeting message: Hello, {}! Welcome. You are {} years old.".format(fname[:], age))
